@@ -2,6 +2,14 @@
 
 A Python web application that transcribes video files using WhisperX and provides an interactive React frontend for viewing videos with synchronized, clickable transcripts and AI-powered summaries.
 
+## Screenshots
+
+![Lesson Transcriber Interface](screenshots/app-interface.png)
+
+![Lesson Transcriber Interface 2](screenshots/app-interface-2.png)
+
+*The application interface showing video playback with synchronized transcript and AI summary panels*
+
 ## Features
 
 - **Audio Transcription**: Uses WhisperX with small model for efficient transcription
